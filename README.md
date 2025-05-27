@@ -8,6 +8,15 @@ An interactive healthcare analytics project developed using **Python** and **Pow
 
 This project helps analyze medical data to uncover trends in patient conditions and resource demand. The dashboard aids hospitals and healthcare providers in making data-driven decisions.
 
+![Medical Data Dashboard](./assets/dashboard.png)
+
+Key metrics displayed:
+- 55K Total Patients
+- 1.42bn Total Billing
+- 15.51 Average Stay
+- Detailed breakdowns by medical condition, hospital, and admission type
+- Interactive filters for hospital and time period selection
+
 ---
 
 ## 🎯 Objectives
