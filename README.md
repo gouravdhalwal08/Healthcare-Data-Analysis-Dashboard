@@ -8,7 +8,8 @@ An interactive healthcare analytics project developed using **Python** and **Pow
 
 This project helps analyze medical data to uncover trends in patient conditions and resource demand. The dashboard aids hospitals and healthcare providers in making data-driven decisions.
 
-![Medical Data Dashboard]Screenshot 2025-05-27 144824.png
+![Medical Data Dashboard]![Uploading Screenshot 2025-05-27 144824.png…]()
+
 
 Key metrics displayed:
 - 55K Total Patients
